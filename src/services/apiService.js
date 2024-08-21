@@ -1,6 +1,6 @@
 import { Navigate } from "react-router-dom";
 const BASE_URL = process.env.REACT_APP_BASE_URL;
-console.log(BASE_URL);
+// console.log(BASE_URL);
 
 // src/services/apiService.js
 export const getProjects = async () => {
